@@ -23,7 +23,10 @@
     }
 ```
 6. My first project that added to GIT. I did these projects for myself, as self-study.
-    (https://github.com/KlautSay/live-1.git"first project") 
-    (https://github.com/KlautSay/live-2.git "second project")
+
+    [first project](https://github.com/KlautSay/live-1.git "first project") 
+
+    [second project](https://github.com/KlautSay/live-2.git "second project")
+    
 7. Belarusian State University of Transport, Civil engineer
 8. A2
