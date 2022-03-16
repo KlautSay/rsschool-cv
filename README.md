@@ -1,1 +1,1 @@
-# rsschool-cv
+[MD & GIT](https://KlautSay.github.io/rsschool-cv/cv "About me")
