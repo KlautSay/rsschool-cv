@@ -1,1 +1,1 @@
-[MD & GIT](https://KlautSay.github.io/rsschool-cv/ "About me")
+[MD & GIT](https://KlautSay.github.io/rsschool-cv/index "About me")
