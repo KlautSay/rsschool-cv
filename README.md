@@ -1,1 +1,1 @@
-# rsschool-cv
+[MD & GIT](https://klautsay.github.io/rsschool-cv/index "start page")
